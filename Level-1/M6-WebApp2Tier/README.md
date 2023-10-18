@@ -3,4 +3,4 @@ This module will use all the learning that you have grabbed so far from all the 
 
 | Lecture |   Description  |
 |---------|----------------|
-|  L01    | [Deploy WordPress on AWS EC2](Level-1/M6-WebApp2Tier/1-Wordpress-2-tier.md)  |
+|  L01    | [Deploy WordPress on AWS EC2](1-Wordpress-2-tier.md)  |
